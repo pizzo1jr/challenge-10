@@ -10,6 +10,10 @@
 
 https://user-images.githubusercontent.com/102200085/173270957-4ae91ce1-c2ab-4f1d-827b-12bd9d53fd5d.mp4
 
+![image](https://user-images.githubusercontent.com/102200085/173271481-e8529753-574f-4865-aaf4-8f81431e679a.png)
+
+file:///C:/Users/pizzo/Desktop/Bootcamp/projects/challenge-ten/js/output/team.html
+
 
 ## Table of Contents
 - [Description](#description)
